@@ -14,18 +14,20 @@
   - [ ] What Is The Cloud
   - [ ] Cloud Myths Busted
   - [ ] What Is Cloud For **YOU** As A Game Dev
+  - [ ] Things To Consider, Before Using The Cloud
+    - [ ] First Things First, Do You Need It?
+    - [ ] Identifying Your Game Type
+    - [ ] Your Programming Language
+    - [ ] Your Target Platforms
+    - [ ] Local Area Network (LAN) Games
+    - [ ] Over-The-Internet Games
+    - [ ] Things That Matter
+- [ ] **Part Two - Cloud Basics**
   - [ ] Basic Concepts
   - [ ] Basic Cloud Concepts
   - [ ] Cloud Providers & Their Services
   - [ ] Getting The Most Out Of The Cloud
   - [ ] Signing Up For The Cloud
-- [ ] **Part Two - Things To Consider, Before Using The Cloud**
-  - [ ] Identifying Your Game Type
-  - [ ] Your Programming Language
-  - [ ] Your Target Platforms
-  - [ ] Local Area Network (LAN) Games
-  - [ ] Over-The-Internet Games
-  - [ ] Things That Matter
 - [ ] **Part Three - Ideal Cloud Setups**
   - [ ] Basic Server-Client Setup
   - [ ] Local Area Network (LAN) Discovery
